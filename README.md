@@ -21,8 +21,16 @@ See `00_索引.md` (Chinese) for a one-page navigation guide.
 
 ## Data sources and licences
 
-1. **DamCrack source dataset.** Gharehbaghi, V., Li, J. (2026), Zenodo DOI [`10.5281/zenodo.17274707`](https://doi.org/10.5281/zenodo.17274707), CC BY 4.0. The derived labels and split manifests are distributed under CC BY 4.0 with attribution.
-2. **DSI source dataset.** Hong, K., Wang, H., Yuan, B., Wang, T. (2023), GitHub [`GITSHOHOKU/DSI-Data-set`](https://github.com/GITSHOHOKU/DSI-Data-set), MIT licence; article DOI [`10.3390/buildings13020285`](https://doi.org/10.3390/buildings13020285), CC BY 4.0.
+1. **DamCrack source dataset.** Gharehbaghi, V., Li, J. (2026), Zenodo DOI [`10.5281/zenodo.17274707
+        
+        `](https://doi.org/10.5281/zenodo.17274707
+        
+        ), CC BY 4.0. The derived labels and split manifests are distributed under CC BY 4.0 with attribution.
+2. **DSI source dataset.** Hong, K., Wang, H., Yuan, B., Wang, T. (2023), GitHub [`GITSHOHOKU/DSI-Data-set`](https://github.com/GITSHOHOKU/DSI-Data-set), MIT licence; article DOI [`10.3390/buildings13020285
+        
+        `](https://doi.org/10.3390/buildings13020285
+        
+        ), CC BY 4.0.
 3. **Framework code.** The modified Ultralytics files derive from an AGPL-3.0 codebase; the project-level licence remains AGPL-3.0.
 
 ## Reproducing the reported results
@@ -42,5 +50,6 @@ retraining (copy `results_json/` back into a `runs/` tree, see `results_json/REA
 
 ## Contact
 
-AUTHOR\_INPUT\_NEEDED: insert the corresponding author, institutional e-mail address and the
-public repository DOI/URL before publication.
+3297443604@qq.com
+
+---
